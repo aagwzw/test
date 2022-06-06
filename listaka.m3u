@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sponsoring.fr/wp-content/uploads/2020/08/Eurosport-logo.jpg", Eurosport
+http://195.154.179.18:8000/play/a00e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg", Liga de Campeones
+http://45.92.69.203:1980/play/a04k
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7861_41a_1_c00000_0_0_0.png", Liga de Campeones 1 HD
+http://45.92.69.203:1980/play/a05e
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png", Liga de Campeones 2 HD
+http://45.92.69.203:1980/play/a05h
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png", Liga de Campeones 3
+http://45.92.69.203:1980/play/a02v
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ht4u.net/wp-content/uploads/2020/07/DAZN-Logo.png", Dazn 1 HD
+http://185.79.153.9:6500/play/a005
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png", Dazn 2 HD
+http://45.92.69.203:1980/play/a00o
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.mundocreativonicaragua.com/wp-content/uploads/2022/03/DAZN-3.jpg", Dazn 3 HD
+http://45.92.69.203:1980/play/a05g
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png", Dazn 4 HD
+http://45.92.69.203:1980/play/a05f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes-1024x768.png", Movistar Deportes HD
+http://45.92.69.203:1980/play/a02e
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png", Movistar Deportes 1 HD
+http://45.92.69.203:1980/play/a021
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png", Canta2
+https://00f74ba44b6ded29caed67aabe9c2cba847e38513f-apidata.googleusercontent.com/download/storage/v1/b/bisco-01/o/61abf406d84ee3d6047d5e1e.mp4?jk=AFshE3XXUF1-zlrhiJFL-voCdO7r7aC4xYnvskiP9sdN8fk7y1YrCr0oLv1iTTWf-sJkOAjeXrAPbMCPtN0AoR62iMxH3q7y1E_xQj0ybjDeB93w9gYVx9TNL4qm0AReJNdClhN5YmGvqE8HMZ9Kl0As2jSW0lua81Le21HrHWb6_pgrwT2Sc7-BUp0X5afk1VUnmOFY2DBmZ7x07LCfg6h0ITRmrQir363K03JfUNsWHFDhQUA7dto2bnKfNNItC5vLMaA86c4I01lbgumr_ogbPVt4KDIrxtDQstsNxq5RsFpCnJOsR-zD1FQPRLPy3wdLkfECScfcaeHY-bjWhxBeB-yNQ5G6twM2W8CsVGE2odTEeVU6BN5Y1zQ4or5MdDB95cq7gWdnLnF5rMofrd4TbmJYNtuRtvQhUFmPI6M_6v1rpmVnVhzN05vdDblozPLPMI0db7tp-eW4k3QHDGEE-uUasWiEFwd1W8C3nsSHqieh1lDvYj_lyegQxmAK7eQaDiNM8B0tWmJ_bsRjPZ3itB4Xwg33RgM5veInZTrNXVBvvpDa9HCBSmY0f9U2NfQHguzWm7FKHi24TOAM6k1HlZa56SoJ6zg-Qur7tWGYwvDuhuqPVywKqxXcBI9P_2Ql_Cxg_-PPYdywWP2Cz2dDV83876a5etvfhHMEQQKKUPSu6jNZZaEsTIMsrzWWkGg8IF0_e852kXJjb9Y5r6vKe8zzfxZf3VDYt_DgXD24XF8buh3CzyrR_E8SZraiNjdo0QCXUqFMf4N3i6VRHXSmy6Yl7MJjN5K_rQOEVIfwOxrw1GAkMvDB9XMVs0UUSeR_0MXeKKaC497Cugi9g3VA8nQQWppdP8PNpraIBeD1TjfYnTMkBL9tiGBDXIxqcfJtU1jLDY8GdpmgLf5Ix8wMZHbLF3TL3hTcf_kSxRei0Xs5xVfhaAn6PiIguAPCWjt4A-yl0hyfiQaquK9sq0nhyjGSrvy1EB1MYpM87XDldpgj1gnPxzZGh-ll2W93ec2n3zKl1p0ciGylO4tKRBd_0diNtX2HT50&isca=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://meteoalcorcon.es/1_0_19_7828_428_1_C00000_0_0_0.png", Peli
+https://www1560.ff-04.com/token=ESMX5B3E_m0hbU3KqqwxHA/1654496811/83.35.0.0/197/2/55/c12f7808aa4185618d7ab53a76d8d552-480p.mp4
